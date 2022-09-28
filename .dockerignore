@@ -1,0 +1,6 @@
+.git
+.idea
+target
+README.md
+build.sh
+.gitignore
